@@ -5,9 +5,9 @@ $ cd faceLightSDK_Nano\
 $ mkdir build\
 $ cd build\
 $ cmake ..\
-$ make\
+$ make
 
 
-you can try an example follow command
-$ cd .. 
+# you can try an example follow command
+$ cd .. \
 $ ./faceLightClient
