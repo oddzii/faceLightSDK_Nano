@@ -1,6 +1,7 @@
 # faceLightSDK_Nano
 faceLightSDK for unitree go1
 
+# Build from source
 $ cd faceLightSDK_Nano\
 $ mkdir build\
 $ cd build\
